@@ -1,12 +1,14 @@
-# Maryam Esmaeili
-Data scientist (MSc Data Science for Life Sciences, Hanze University, 2026) focused on
-statistical modelling and machine learning for biological and health data.
+### Hi, I'm Maryam 👋
 
-**Focus:** microbiome & omics analysis · model validation · reproducible pipelines (Snakemake)
-**Tools:** Python (pandas, scikit-learn, XGBoost, RDKit), R, SQL, Snakemake, Git
+Data scientist in Utrecht with an MSc in Data Science for Life Sciences (Hanze University).
+I build reproducible ML pipelines and care about whether results can actually be used.
 
-## Selected work
-- [Natural product substitutes pipeline](link-later) – Snakemake workflow: fingerprints, clustering, outlier detection
-- [World Happiness drivers](https://github.com/MaryEsmaeili/World-Happiness-Report) – regression analysis of 133 countries
+🌐 **Portfolio:** [maryesmaeili.github.io](https://maryesmaeili.github.io)
+💼 **LinkedIn:** [maryam-esmaeili-ds](https://www.linkedin.com/in/maryam-esmaeili-ds)
 
-📫 [LinkedIn](https://www.linkedin.com/in/maryam-esmaeili-ds) · Based in Utrecht, NL
+**Start here:**
+- [Crohn's disease & the oral vs. fecal microbiome](https://github.com/MaryEsmaeili/Microbiome-based-Predictive-Modelling-in-Crohn-s-Disease) – MSc thesis with UMCG (Snakemake, Python, R, ML)
+- [Natural vs. synthetic compound pipeline](https://github.com/MaryEsmaeili/Programming6) – Snakemake workflow related to my industry project with Wydo
+- [Clinical NLP](https://github.com/MaryEsmaeili/Use-case-Text-embedding) – topic modelling on clinical notes
+
+**Tools:** Python · R · SQL · scikit-learn · Snakemake · Git · Power BI
